@@ -2,7 +2,7 @@
   "name": "TeaLovingLadMOP",
   "description": "A collection of mouths for your characters to yap with!",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/TeaLovingGerman/TeaLovingLad.MOP",
+  "website_url": "https://github.com/TeaLovingGerman/TeaLovingLadMOP",
   "dependencies": [
     "NotNet-GDWeave-2.0.13",
     "Sulayre-Lure-4.2.1"
