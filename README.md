@@ -1,8 +1,8 @@
 # TeaLovingLadMOP
-MOP (Mouths o' Plenty) adds around QQQ of the second-most expressive part of the face: mouhts!
+MOP (Mouths o' Plenty) adds around 100 mouths for your characters to yap with!
 
-THis mod offers smiles and snarls, playful and serious, jokes and more!
+This mod offers smiles and snarls, playful and serious, jokes and more!
 
-![alt text](.png)
+![alt text](https://imgur.com/awJpou0.png)
 
-![alt text](.png)
+![alt text](https://imgur.com/BserEgN.png)
