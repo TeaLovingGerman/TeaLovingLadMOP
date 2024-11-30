@@ -1,7 +1,7 @@
 {
   "name": "TeaLovingLadMOP",
   "description": "A collection of mouths for your characters to yap with!",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/TeaLovingGerman/TeaLovingLadMOP",
   "dependencies": [
     "NotNet-GDWeave-2.0.13",
